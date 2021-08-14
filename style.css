@@ -1,0 +1,65 @@
+.wrapper {
+    height: 600px;
+    width: 600px;
+    display: inline-block;
+}
+
+.box3 {
+    height: 50%;
+    width: 50%;
+    background: pink;
+    box-sizing: border-box;
+    float: left;
+}
+
+.box2 {
+    height: 50%;
+    width: 80%;
+    background: pink;
+    box-sizing: border-box;
+    float: left;
+}
+
+.a {
+    padding-bottom: 1em;
+    padding-right: 1em;
+}
+
+.b {
+    padding-top: 1em;
+    padding-right: 1em;
+}
+
+.f {
+    padding: auto;
+    padding-top: 1em;
+    padding-left: 1em;
+}
+
+.g {
+    padding-bottom: 1em;
+    padding-left: 1em;
+}
+
+.h {
+    padding-right: 1em;
+    padding-top: 1em;
+}
+
+.i {
+    padding: auto;
+    padding-right: 1em;
+    padding-bottom: 1em;
+}
+
+.con {
+    width: 100%;
+    height: 100%;
+    background: blue;
+}
+
+form {
+    position: relative;
+    top: 70px;
+    left: 70px;
+}
